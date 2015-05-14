@@ -180,14 +180,6 @@ class WP_First_Letter_Avatar {
 
 
 
-	public function plugin_deactivate(){ // plugin deactivation event
-
-		// nothing to do here
-
-	}
-
-
-
 	public function wpfla_add_settings_link($links){
 
 		// add localised Settings link do plugin settings on plugins page:
