@@ -1,6 +1,6 @@
 /*
- Plugin: WP First Letter Avatar
- Website: http://dev49.net
+	Plugin: WP First Letter Avatar
+	Plugin website: http://dev49.net
  */
 
 
